@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chicken {
+    width: 100vw;
+    height: 600px;
+    background-image: url('chicken-curry.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.chicken h2 {
+    position: relative;
+    top: 300px;
+    left: 600px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.paneer {
+    width: 100vw;
+    height: 600px;
+    background-image: url('saahi-paneer.webp');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.paneer h2 {
+    position: relative;
+    top: 300px;
+    left: 600px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.kachori {
+    width: 100vw;
+    height: 600px;
+    background-image: url('raj-kachori.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.kachori h2 {
+    position: relative;
+    top: 300px;
+    left: 600px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.bhaji {
+    width: 100vw;
+    height: 600px;
+    background-image: url('pav-bhaji.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.bhaji h2 {
+    position: relative;
+    top: 300px;
+    left: 600px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.rajma {
+    width: 100vw;
+    height: 600px;
+    background-image: url('rajma-chawal.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.rajma h2 {
+    position: relative;
+    top: 300px;
+    left: 600px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.para {
+    width: 100vw;
+    height: 150px;
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
